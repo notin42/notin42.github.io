@@ -2,6 +2,8 @@
 date = '2026-09-11T20:51:25+08:00'
 draft = false
 title = '第一篇博文'
+categories：
+  - 日常
 +++
 
 你好，你好吗？
@@ -23,7 +25,4 @@ title = '第一篇博文'
 
 
 
-###### categories:
-
-&#x20; - 日常
 
