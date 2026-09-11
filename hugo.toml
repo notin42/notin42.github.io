@@ -1,0 +1,42 @@
+baseURL = 'https://notin42.github.io/'
+locale = 'zh-cn'
+title = 'Hello World'
+theme = "hugo-theme-retrocss"
+copyright = "© 2026 Who am I"
+enableEmoji = true
+capitalizeListTitles = false
+
+[pagination]
+  pagerSize = 6
+
+[params]
+
+  description = "施工中，用于堆放长文（大概吧），不稳定更新"
+  accentHue = "primary"
+  borderRadius = "0"
+  sidebar = "left"
+  dateFormat = "2 January 2006"
+  showReadingTime = true
+  showToc = true
+  search = false
+  mainSections = ["posts"]
+  images = ["images/og-card.png"]
+
+
+[menus]
+
+  [[menus.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 10
+
+  [[menus.main]]
+    name = "Docs"
+    pageRef = "/docs"
+    weight = 20
+
+  [[menus.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 30
+

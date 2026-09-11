@@ -1,0 +1,6 @@
+[submodule "theme/retrocss"]
+	path = theme/retrocss
+	url = https://github.com/PhantomPixelDev/hugo-theme-retrocss
+[submodule "themes/retrocss"]
+	path = themes/retrocss
+	url = https://github.com/PhantomPixelDev/hugo-theme-retrocss
