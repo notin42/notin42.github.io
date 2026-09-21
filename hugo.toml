@@ -26,7 +26,7 @@ capitalizeListTitles = false
 [menus]
 
   [[menus.main]]
-    name = "Posts"
+    name = "blog"
     pageRef = "/posts"
     weight = 10
 
