@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dd2aa9414e171f06",
@@ -188,6 +187,10 @@
   "active": "fdc62f4ef05f8584",
   "lastOpenFiles": [
     "posts/2026-09-21.md",
+    "blog/my-first-post.md",
+    "blog/2026-9-20.md",
+    "blog/2026-09-21.md",
+    "blog",
     "posts/2026-9-20.md",
     "posts/my-first-post.md",
     "mod/未命名.md",

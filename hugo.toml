@@ -19,7 +19,7 @@ capitalizeListTitles = false
   showReadingTime = true
   showToc = true
   search = false
-  mainSections = ["posts"]
+  mainSections = ["blog"]
   images = ["images/og-card.png"]
 
 
@@ -27,7 +27,7 @@ capitalizeListTitles = false
 
   [[menus.main]]
     name = "blog"
-    pageRef = "/posts"
+    pageRef = "/blog"
     weight = 10
 
   [[menus.main]]
